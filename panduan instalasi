@@ -1,0 +1,10 @@
+1. Buka Repository BE laravel
+2. download atau clone
+3. Jalankan perintah composer install. Pastikan composer install dilakukan pada direktori BE laravel
+4. Copy atau ubah nama dari env.example menjadi env. dengan perintah "JIKA COPY" cp env.example .env atau "RENAME" mv .env.example .env
+5. Generate key untuk env laravel dengan perintah 
+    php artisan key:generate
+6. Migrate database dengan perintah
+    php artisan migrate
+
+7. php artisan serve
