@@ -1,3 +1,4 @@
+INSTALASI BE
 1. Buka Repository BE laravel
 2. download atau clone
 3. Jalankan perintah composer install. Pastikan composer install dilakukan pada direktori BE laravel
@@ -8,3 +9,12 @@
     php artisan migrate
 
 7. php artisan serve
+
+selesai, untuk lebih lengkapnya terkait instalasi bisa lihat contoh berikut 
+https://agussuratna.net/2023/05/panduan-lengkap-cara-instalasi-laravel-dengan-mengunduh-dari-github/
+
+INSTALASI FE
+- DOWNLOAD REPOSITORY atau clone 
+- NPM INSTALL
+- NPM RUN DEV
+- NPM RUN BUILD
